@@ -39,7 +39,7 @@ For **better results** and more robust answers, I recommend using advanced model
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/Kapek432/rag-little-prince.git
+git clone https://github.com/Kapek432/RAG-little-prince.git
 cd rag-little-prince
 ```
 Here’s the updated `README.md` with a note encouraging users to try with other books, while recommending not using large ones for better performance.
