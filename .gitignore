@@ -1,0 +1,12 @@
+# Bytecode
+__pycache__/
+*.pyc
+
+# Virtualenv
+rag/
+
+# Chroma DB
+chroma/
+
+# PDFs
+books/*.pdf
