@@ -11,9 +11,9 @@ A simple Retrieval-Augmented Generation (RAG) pipeline using **LangChain**, **Ol
 
 ---
 
-## ⚠️ Disclaimer: Showcase Model
+## ⚠️ Disclaimer: Demonstration Model
 
-Please note that this model is intended as a **showcase** and **proof of concept**. The responses may not be of the highest quality, as the models used are relatively smaller in scale compared to what might be needed for production-level tasks. 
+Please note that this model is intended as a **demonstartion** and **proof of concept**. The responses may not be of the highest quality, as the models used are relatively smaller in scale compared to what might be needed for production-level tasks. 
 
 For **better results** and more robust answers, I recommend using advanced models, such as:
 
